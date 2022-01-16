@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Countries>
+    <Country id="VN">
+        <Name>Viet Nam</Name>
+        <Position>Southeast Asia</Position>
+        <Area unit="Km2">331210</Area>
+        <Population>95581592</Population>
+    </Country>
+    <Country id="TH">
+        <Name>Thailand</Name>
+        <Position>Southeast Asia</Position>
+        <Area unit="Km2">513000</Area>
+        <Population>690044823</Population>
+    </Country>
+    <Country id="MY">
+        <Name>Malaysia</Name>
+        <Position>Southeast Asia</Position>
+        <Area unit="Km2">329847</Area>
+        <Population>31642781</Population>
+    </Country>
+</Countries>
